@@ -9,10 +9,12 @@ Open IntelliJ IDEA or any other Java IDE of your choice.
 Open the project by selecting the root directory of the cloned repository.
 Configure the environment, agent parameters, and training settings in the provided classes.
 Build the project to ensure all dependencies are resolved.
-Usage
+
+
+## Usage
 To use this implementation, you can follow the steps below:
 
-## Configure the environment:
+Configure the environment:
 
 Define the state and action space for the agents.
 Specify the reward structure and transition dynamics.
