@@ -40,7 +40,8 @@ Visualize the learning curves or other relevant visualizations if implemented.
 This implementation has the following dependencies:
 -Jade
 -Java Development Kit (JDK) 8 or later
-Contributing
+
+## Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
 ## License
